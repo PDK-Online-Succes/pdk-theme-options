@@ -5,6 +5,8 @@
 * Version:           1.0.0
 * Author:            PDK Online Success
 * Author URI:        https://pdk.nl
+* GitHub Plugin URI: afragen/git-updater
+* GitHub Plugin URI: https://github.com/afragen/git-updater
 */
 
 /* Start Adding Functions Below this Line */
